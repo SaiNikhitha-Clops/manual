@@ -1,0 +1,4 @@
+mvn sonar:sonar \
+  -Dsonar.projectKey=sonarqube \
+  -Dsonar.host.url=http://18.216.160.123:9000 \
+  -Dsonar.login=425d6dcb03d1f56a7534e6fd9961a1d78fb68acf
